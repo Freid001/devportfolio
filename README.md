@@ -1,7 +1,7 @@
 # freid001.github.io
 
 # About
-* My own profile hosted via [Github pages](https://help.github.com/articles/what-is-github-pages/).
+* My [Github pages](https://help.github.com/articles/what-is-github-pages/) profile.
 * Template forked from [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio)
 
 ## License
